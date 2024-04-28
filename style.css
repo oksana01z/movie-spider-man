@@ -1,0 +1,59 @@
+.шапка{
+    width: 100%;
+    paddind:10 px 5%;
+    background-color:grey;
+
+} 
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+h3{
+    font-size: 30px;
+}
+h2{
+    color:blue;
+    font-size: 25 px;
+}
+ul{
+    font-size: 20px;
+}
+.Pictures{
+   
+}
+a{
+flex:1
+
+}
+header>nav{
+display:flex;
+justify-content: space-around;
+align-items: center;
+background-color: grey;
+}
+h4{
+    font-weight:400;
+}
+body{
+    background-color:rgb(247, 219, 219);
+}
+.signature{
+    margin-left: 10px;
+    float:right;
+}
+.logo{
+    width: 100%;
+}
+.peen{
+
+background-size: 50%;
+background-position: 50%;
+}
+nav>a{
+    text-decoration:none;
+    color: black;
+}
+
+}
